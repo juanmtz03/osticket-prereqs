@@ -31,28 +31,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   5. Create the directory C:\PHP
   6. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) 
   7. Unzip the contents into C:\PHP
-Download and install VC_redist.x86.exe.
-Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
-Open IIS as an Admin
-Register PHP from within IIS
-Reload IIS (Open IIS, Stop and Start the server)
-Install osTicket v1.15.8
-Reload IIS (Open IIS, Stop and Start the server)
-Go to sites -> Default -> osTicket
-Note that some extensions are not enabled, enable the extension.
-Rename: ost-config.php
-Assign Permissions: ost-config.php
-Continue Setting up osTicket in the browser 
-Download and install HeidiSQL.
-Continue Setting up osticket in the browser
-End Users osTicket URL:
-http://localhost/osTicket/ 
-Clean up
-Delete: C:\inetpub\wwwroot\osTicket\setup
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+  8. Download and install VC_redist.x86.exe.
+  9. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  10. Open IIS as an Admin
+  11. Register PHP from within IIS
+  12. Reload IIS (Open IIS, Stop and Start the server)
+  13. Install osTicket v1.15.8
+  14. Reload IIS (Open IIS, Stop and Start the server)
+  15. Go to sites -> Default -> osTicket
+    Note: some extensions are not enabled, enable the extension.
+  16. Rename: ost-config.php
+  17. Assign Permissions: ost-config.php
+  18. Continue Setting up osTicket in the browser 
+  19. Download and install HeidiSQL.
+  20. Continue Setting up osticket in the browser
+  21. End Users osTicket URL:
+      -http://localhost/osTicket/ 
+  22. Clean up
+      -Delete: C:\inetpub\wwwroot\osTicket\setup
+  23. Set Permissions to “Read” only:
+      -C:\inetpub\wwwroot\osTicket\include\ost-config.php
 Notes:
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
-End Users osTicket URL: http://localhost/osTicket/ 
+  -Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+  -End Users osTicket URL: http://localhost/osTicket/ 
 
 
 <h2>Installation Steps</h2>
