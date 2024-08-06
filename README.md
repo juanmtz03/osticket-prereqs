@@ -57,12 +57,15 @@ Notes:
 
 
 <h2>Installation Steps</h2>
-
+Part 1 Create Virtual Machine in Azure
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+https://github.com/user-attachments/assets/e8cf57f0-e953-46f9-a434-50b932ed80c2
+
 </p>
-<p>
 
+<p>
+Part 2 Installation
 </p>
 <br />
 
