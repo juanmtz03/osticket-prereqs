@@ -17,21 +17,21 @@ Comprehensive Guide: Prerequisites and Installation of the Open-Source Help Desk
 
 <h2>List of Prerequisites</h2>
 
-- Part 1 (Create Virtual Machine in Azure)
+- Part 1 Create Virtual Machine in Azure
   1. Create a Resource Group
-  2. Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-- Part 2 (Installation)
+  2. Create a Windows 10 Virtual Machine with 2-4 Virtual CPUs
+- Part 2 Installation
   1. Create an Azure Virtual Machine Windows 10, 4 vCPUs
   2. Install / Enable IIS in Windows:
       a. CGI and Common HTTP Features
       b. IIS Management Console
-  3. Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
-  4. Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+  3. Install PHP Manager for IIS 
+  4. Install the Rewrite Module 
   5. Create the directory C:\PHP
-  6. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) 
+  6. Download PHP 7.3.8 
   7. Unzip the contents into C:\PHP
-  8. Download and install VC_redist.x86.exe.
-  9. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  8. Install VC_redist.x86.exe
+  9. Install MySQL 5.5.62 
   10. Open IIS as an Admin
   11. Register PHP from within IIS
   12. Reload IIS (Open IIS, Stop and Start the server)
@@ -44,14 +44,15 @@ Comprehensive Guide: Prerequisites and Installation of the Open-Source Help Desk
   18. Continue Setting up osTicket in the browser 
   19. Download and install HeidiSQL.
   20. Continue Setting up osticket in the browser
-  21. End Users osTicket URL:
-      -http://localhost/osTicket/ 
-  22. Clean up
-      -Delete: C:\inetpub\wwwroot\osTicket\setup
-  23. Set Permissions to “Read” only:
-      -C:\inetpub\wwwroot\osTicket\include\ost-config.php
+  21. End Users osTicket URL:(http://localhost/osTicket/) 
+  22. Clean up (Delete: C:\inetpub\wwwroot\osTicket\setup)
+  23. Set Permissions to “Read” only:(C:\inetpub\wwwroot\osTicket\include\ost-config.php)
+
+
 Notes:
+
   -Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+ 
   -End Users osTicket URL: http://localhost/osTicket/ 
 
 
