@@ -59,28 +59,20 @@ Notes:
 <h2>Installation Steps</h2>
 Part 1 Create Virtual Machine in Azure
 <p>
-  
-https://github.com/user-attachments/assets/e8cf57f0-e953-46f9-a434-50b932ed80c2
+
+
+https://github.com/user-attachments/assets/0c017a7a-5bb0-41ec-bf47-1743c8a56554
 
 </p>
 
 <p>
 Part 2 Installation
 </p>
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I will use a link to my Google Drive.
+https://drive.google.com/drive/folders/1VvWfzyqcGn-hb5io-XMe96ZIoksOjEDZ?usp=sharing
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
