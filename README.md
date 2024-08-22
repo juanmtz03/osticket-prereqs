@@ -44,9 +44,9 @@ Comprehensive Guide: Prerequisites and Installation of the Open-Source Help Desk
   18. Continue Setting up osTicket in the browser 
   19. Download and install HeidiSQL.
   20. Continue Setting up osticket in the browser
-  21. End Users osTicket URL:(http://localhost/osTicket/) 
-  22. Clean up (Delete: C:\inetpub\wwwroot\osTicket\setup)
-  23. Set Permissions to “Read” only:(C:\inetpub\wwwroot\osTicket\include\ost-config.php)
+  21. End Users osTicket URL: http ://localhost/osTicket/
+  22. Clean up Delete: C:\inetpub\wwwroot\osTicket\setup
+  23. Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
 Notes:
@@ -72,7 +72,7 @@ Part 2 Installation
 <br />
 
 <p>
-I will use a link to my Google Drive.
+I will provide a [Google Drive](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroupsLegacy) link for the next two videos to explain the upcoming steps.
 https://drive.google.com/drive/folders/1VvWfzyqcGn-hb5io-XMe96ZIoksOjEDZ?usp=sharing
 </p>
 
