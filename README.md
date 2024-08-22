@@ -72,7 +72,7 @@ Part 2 Installation
 <br />
 
 <p>
-I will provide a [Google Drive](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroupsLegacy) link for the next two videos to explain the upcoming steps.
+I will provide a Google Drive link for the next two videos to explain the upcoming steps.
 https://drive.google.com/drive/folders/1VvWfzyqcGn-hb5io-XMe96ZIoksOjEDZ?usp=sharing
 </p>
 
