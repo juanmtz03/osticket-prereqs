@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 Comprehensive Guide: Prerequisites and Installation of the Open-Source Help Desk System osTicket
@@ -76,3 +74,6 @@ I will provide a Google Drive link for the next two videos to explain the upcomi
 https://drive.google.com/drive/folders/1VvWfzyqcGn-hb5io-XMe96ZIoksOjEDZ?usp=sharing
 </p>
 
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
